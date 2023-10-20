@@ -1,0 +1,15 @@
+{
+  "name": "saving-error_handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apps.js",
+  "scripts": {
+    "start": "nodemon apps.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fadel Muhamad Aliyafasya",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}
